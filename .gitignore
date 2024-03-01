@@ -22,7 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
 src/Counter.jsx
-src/Currency.jsx
 src/Password.jsx
 src/components/InputBox.jsx
+src/Currency.jsx

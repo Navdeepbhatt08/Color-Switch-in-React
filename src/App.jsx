@@ -1,4 +1,3 @@
-
 import Color from "./ColorChange"
 
 function App() {
